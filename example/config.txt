@@ -1,0 +1,2 @@
+Prefix plugins/SGRU/example/
+Plugin SGRU inputfile parameters.txt outputfile output
